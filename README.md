@@ -3,7 +3,7 @@
 #### ACERCA DE MI
 
 *Mi nombre es Junior Carrión Rodríguez⚡.
-Soy estudiante de la carrera Ingeniería de Sistemas Computacionales, con especialidad en Ingeniería de Software* 👨🏻‍💻.
+Soy estudiante de la carrera Ingeniería de Sistemas Computacionales, actualmente me encuentro en el décimo ciclo, a un paso de obtener el Bachiller* 👨🏻‍💻.
 
 📍 *Trujillo - Perú*
 
