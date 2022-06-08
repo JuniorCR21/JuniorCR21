@@ -10,6 +10,7 @@ Soy estudiante de la carrera Ingeniería de Sistemas Computacionales, actualment
 #### MIS REDES SOCIALES 🌎:
 - *[Facebook](https://www.facebook.com/JuniorCR21/)*
 - *[Instagram](https://www.instagram.com/juniorcr2121/)*
+- *[Linkedin](https://www.instagram.com/juniorcr2121/](https://www.linkedin.com/in/junior-carrion-rodriguez/)*
 
 #### EMAIL ✉️:
 - *<a href="mail:juniorcr2198@gmail.com" target="_blank">juniorcr2198@gmail.com</a>*
