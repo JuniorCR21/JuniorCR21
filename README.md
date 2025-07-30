@@ -44,7 +44,7 @@
 
 -->
 
-### 🔗 Conéctate conmigo
+## 🔗 Conéctate conmigo
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Junior_Carrión_Rodríguez-1464C0?style=flat&logo=linkedin)](https://www.linkedin.com/in/junior-carrion-rodriguez/)
 - [![Email](https://img.shields.io/badge/Email-juniorcarrionr@gmail.com-BB001B?style=flat&logo=gmail&logoColor=white)](mailto:juniorcarrionr@gmail.com)
